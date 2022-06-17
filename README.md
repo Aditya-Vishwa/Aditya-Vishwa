@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aadi_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadi_sharmaaa?logo=twitter&style=for-the-badge" alt="aadi_sharmaaa" /></a> </p>
 
-- 🌱 I’m currently learning **B.Tech in Computer Science And Engineering**
+- 🌱 I’m currently pursuing **B.Tech in Computer Science And Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

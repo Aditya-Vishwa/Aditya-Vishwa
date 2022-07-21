@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing B.Tech in **Computer Science and Engineering**
 
-- 👨‍💻 Here is my portfolio website: [https://aditya-vishwa.me/](https://aditya-vishwa.me/)
+- 👨‍💻 Here is my portfolio website: [http://aditya-vishwa.me/](http://aditya-vishwa.me/)
 
 - 📫 How to reach me: **vishwaad9tya@gmail.com**
 

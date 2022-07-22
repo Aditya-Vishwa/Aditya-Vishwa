@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Respositories](https://github.com/Aditya-Vishwa?tab=repositories)
 
-- 📫 How to reach me **vishwaad9tya@gmail.com**
+- 📫 How to reach me: **vishwaad9tya@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://bit.ly/3OtJCnB)
+- 📄 Know about my experiences: [My Resume](https://bit.ly/3OtJCnB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

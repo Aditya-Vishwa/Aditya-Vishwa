@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **vishwaad9tya@gmail.com**
 
-- 📄 Check my Resume: [https://drive.google.com/file/d/14sXYdiUbwuBAl3gvxbUiUrGJoeja16Bi/view?usp=sharing](https://drive.google.com/file/d/14sXYdiUbwuBAl3gvxbUiUrGJoeja16Bi/view?usp=sharing)
+- 📄 Check my Resume: [Click Here](https://bit.ly/3OtJCnB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

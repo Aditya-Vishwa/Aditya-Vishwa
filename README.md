@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/18126251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18126251" height="30" width="40" /></a>
 <a href="https://fb.com/red.eye.adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="red.eye.adi" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya-vishwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya-vishwa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codebooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codebooter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1yf0w3sxLjkSQFsoLpxAAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codebooter" height="30" width="40" /></a>
 <a href="https://discord.gg/gZugkuYDU2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gZugkuYDU2" height="30" width="40" /></a>
 </p>
 

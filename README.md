@@ -1,13 +1,12 @@
+### <div align="center">Hi 👋, I'm Aditya Kumar Sharma
+<h3 align="center">I'm interested in studying, implementing and exploring etc.</h3></div>  
+  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 <p align="center"> <a href="https://twitter.com/aadi_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadi_sharmaaa?logo=twitter&style=for-the-badge" alt="aadi_sharmaaa" /></a> </p>
 
-  
-
-### <div align="center">Hi 👋, I'm Aditya Kumar Sharma
-<h3 align="center">I'm interested in studying, implementing and exploring etc.</h3></div>  
   
 
 - 🔭 I’m currently working on [Command Line Test](https://github.com/Aditya-Vishwa/Command-Line-Test)  

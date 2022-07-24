@@ -1,5 +1,5 @@
-### <div align="center">Hi 👋, I'm Aditya Kumar Sharma
-<h3 align="center">I'm interested in studying, implementing and exploring etc.</h3></div>  
+### <div align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=20>, I'm Aditya Kumar Sharma
+<h1 align="center">I'm interested in studying<img src="https://c.tenor.com/jdSvLgTHCQkAAAAi/tkthao219-bubududu.gif" width=50>, implementing<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=50> and exploring<img src="https://c.tenor.com/bgfU3WsoVMwAAAAi/wander-explore-experience-explore.gif" width=50> etc.</h1></div>  
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -156,7 +156,7 @@
 
 ----
 
-### <div align="center">Stay Happy, Stay Safe, Stay Energetic
+### <div align="center">Stay Happy<img src="https://c.tenor.com/CcUtdYsxSnwAAAAi/ep00000-emoji.gif" width="20">, Stay Safe<img src="https://c.tenor.com/c_MM4IEBVpwAAAAj/text-sara-maese.gif" width="20">, Stay Energetic<img src="https://c.tenor.com/hSTceO_dfJMAAAAi/energy-drink-energy.gif" width="20">
 <h4><div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Happy Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div></h4>
 
 ----

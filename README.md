@@ -155,4 +155,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Made with ❤️ by [Aditya](http://adityavishwa.tech)</a></div>

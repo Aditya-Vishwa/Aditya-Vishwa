@@ -1,5 +1,5 @@
 ### <div align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=20>, I'm Aditya Kumar Sharma
-<h1 align="center">I'm interested in studying<img src="https://c.tenor.com/jdSvLgTHCQkAAAAi/tkthao219-bubududu.gif" width=50>, implementing<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=50> and exploring<img src="https://c.tenor.com/bgfU3WsoVMwAAAAi/wander-explore-experience-explore.gif" width=50> etc.</h1></div>  
+<h1 align="center">I'm interested in Studying<img src="https://c.tenor.com/jdSvLgTHCQkAAAAi/tkthao219-bubududu.gif" width=50>, Implementing<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=50>, Exploring<img src="https://c.tenor.com/bgfU3WsoVMwAAAAi/wander-explore-experience-explore.gif" width=50> etc.</h1></div>  
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />

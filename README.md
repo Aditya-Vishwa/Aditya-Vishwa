@@ -24,7 +24,7 @@
 - 📫 How to reach me: **vishwaad9tya@gmail.com**  
   
 
-- 📄 Know about my experiences: [My Resume](https://bit.ly/3OtJCnB)  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/u/0/folders/1pO_jccXAO1nNx2OWU81rGf4iGy6-YewB)  
   
 
 <br/>  

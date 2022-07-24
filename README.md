@@ -155,4 +155,10 @@
 <br />
 
 ----
-<div align="center">Made with ❤️ by [Aditya](http://adityavishwa.tech)</a></div>
+
+<div align="center">**Stay Happy, Stay Safe, Stay Energetic**</div>
+<div align="center">Happy Coding</div>
+
+----
+
+Made with ❤️ by [Aditya](http://adityavishwa.tech)

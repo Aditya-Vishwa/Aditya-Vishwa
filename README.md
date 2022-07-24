@@ -156,8 +156,8 @@
 
 ----
 
-<div align="center">**Stay Happy, Stay Safe, Stay Energetic**</div>
-<div align="center">Happy Coding</div>
+### <div align="center">Stay Happy, Stay Safe, Stay Energetic
+<h4><div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Happy Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div></h4>
 
 ----
 

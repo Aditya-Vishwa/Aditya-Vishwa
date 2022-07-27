@@ -6,7 +6,7 @@
 </div>  
 
 <p align="center"> <a href="https://twitter.com/aadi_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadi_sharmaaa?logo=twitter&style=for-the-badge" alt="aadi_sharmaaa" /></a> </p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/aditya-vishwa/" target="blank"><img src="https://img.shields.io/badge/-CONNECT WITH ME @LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="aditya-vishwa" /></a> </p>
   
 
 - 🔭 I’m currently working on [Command Line Test](https://github.com/Aditya-Vishwa/Command-Line-Test)  

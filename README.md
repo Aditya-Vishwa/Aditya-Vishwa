@@ -161,4 +161,4 @@
 
 ----
 
-Made with ❤️ by [Aditya](http://adityavishwa.tech)
+Made with ❤️ by [Aditya](http://aditya-vishwa.me)

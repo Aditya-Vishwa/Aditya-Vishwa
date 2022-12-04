@@ -30,7 +30,7 @@
 <br/>  
 
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -85,7 +85,7 @@
 
 <br/>  
 
-
+ -->
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Aditya-Vishwa" target="_blank">

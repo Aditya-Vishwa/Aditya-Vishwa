@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<p align="center"> <a href="https://twitter.com/aadii_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadi_sharmaaa?logo=twitter&style=for-the-badge" alt="aadii_sharmaaa" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aadii_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/aadii_sharmaaa?logo=twitter&style=for-the-badge" alt="aadii_sharmaaa" /></a> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/aditya-vishwa/" target="blank"><img src="https://img.shields.io/badge/-CONNECT WITH ME @LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="aditya-vishwa" /></a> </p>
   
 

@@ -24,7 +24,7 @@
 - 📫 How to reach me: **vishwaad9tya@gmail.com**  
   
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1tw40cRlLhgxLH_d3-DR_HyVF-MKdnF4L/view?usp=sharing)  
+- 📄 Know about my experiences: [My Resume](https://github.com/Aditya-Vishwa/Aditya-Vishwa/raw/main/RESUME.pdf)  
   
 
 <br/>  

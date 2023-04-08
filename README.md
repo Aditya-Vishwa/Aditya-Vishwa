@@ -119,19 +119,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&" alt="aditya-vishwa" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=true&theme=jolly" align="left" /></div>  
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&theme=jolly" alt="aditya-vishwa" /></p>
 
-<br/>  
-
-
-
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aditya-vishwa&&style=flat-square" align="center" />
@@ -140,17 +130,17 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/BlacksmithAditya" target="_blank" style="display: inline-block;">
+<div>
+            <a href="https://paypal.me/BlacksmithAditya" target="_blank" style="display: inline-block;" style="width: 15%">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
+                    align="left" style="width: 15%"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/adityavishwa" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/adityavishwa" target="_blank" style="display: inline-block;" style="width: 24%">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
+                    align="right" style="width: 24%"
                 />
             </a></div>
 <br />

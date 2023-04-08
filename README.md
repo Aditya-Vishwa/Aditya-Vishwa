@@ -146,8 +146,8 @@
 
 ----
 
-### <div align="center">Stay Happy<img src="https://c.tenor.com/CcUtdYsxSnwAAAAi/ep00000-emoji.gif" width="20">, Stay Safe<img src="https://c.tenor.com/c_MM4IEBVpwAAAAj/text-sara-maese.gif" width="20">, Stay Energetic<img src="https://c.tenor.com/hSTceO_dfJMAAAAi/energy-drink-energy.gif" width="20">
-<h4><div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Happy Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div></h4>
+### <div align="center">Stay Happy<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/smiling-face-with-smiling-eyes_1f60a.gif" width="20">, Stay Safe<img src="https://c.tenor.com/c_MM4IEBVpwAAAAj/text-sara-maese.gif" width="20">, Stay Energetic<img src="https://c.tenor.com/hSTceO_dfJMAAAAi/energy-drink-energy.gif" width="20">
+<h4><div align="center"><img src="https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="20"> Happy Coding <img src="https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="20"></div></h4>
 
 ----
 

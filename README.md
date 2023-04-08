@@ -120,8 +120,8 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=false&theme=jolly" align="left" />
-  <p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&theme=jolly" alt="aditya-vishwa" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=false&theme=jolly" align="cente" />
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&theme=jolly" alt="aditya-vishwa" /></p>
 </div>
 
 

@@ -119,8 +119,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=true&theme=jolly" align="left" /></div>  
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&theme=jolly" alt="aditya-vishwa" /></p>
+<div align='center'><img src="https://github-readme-stats.vercel.app/api?username=aditya-vishwa&show_icons=true&count_private=true&hide_border=true&theme=jolly" align="left" /></div>  
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-vishwa&theme=jolly" align="right" alt="aditya-vishwa" /></p>
 
 
 <div align="center">

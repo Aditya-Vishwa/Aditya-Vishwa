@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Command Line Test](https://github.com/Aditya-Vishwa/Command-Line-Test)  
   
 
-- 🌱 I’m currently learning **Web Development and it's frameworks, Bash etc.**  
+- 🌱 I’m currently learning **React.js.**  
   
 
 - 👯 I’m looking to collaborate on [Linux Administration and Cyber Security](https://github.com/Aditya-Vishwa/Command-Line-Test)  

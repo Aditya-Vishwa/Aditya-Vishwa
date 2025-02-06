@@ -1,4 +1,4 @@
-### <div align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=20>, I'm Aditya Kumar Sharma
+### <div align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=20>, I'm Aditya Sharma
 <h1 align="center">I'm interested in Studying<img src="https://c.tenor.com/jdSvLgTHCQkAAAAi/tkthao219-bubududu.gif" width=30>, Implementing <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=30>, Exploring <img src="https://media4.giphy.com/media/DLvYT1MCK0aZ6wf8Fl/giphy.gif?cid=6c09b952a5illntv4au7fezjxsq8vhvznnsi7tw9sa5u54zl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width=50> etc.</h1></div>  
   
 <div align="center">
